@@ -53,10 +53,10 @@ var colors = {
 // Total size of all segments; we set this later, after loading the data.
 var totalSize = 0; 
 
-var order_vector = ['Brasil', 'Espanha', 'Alemanha', 'França', 'Argentina', 'Inglaterra', 'Bélgica', 'Portugal',
-                      'Colômbia', 'Uruguai', 'Peru', 'Polônia', 'Suíça', 'México', 'Croácia', 'Suécia', 'Islândia',
-                      'Dinamarca', 'Rússia', 'Irã', 'Costa Rica', 'Coreia do Sul', 'Japão', 'Sérvia', 'Austrália',
-                      'Senegal', 'Panamá', 'Egito', 'Marrocos', 'Tunísia', 'Arábia Saudita', 'Nigéria', 'Oitavas',
+var order_vector = ['Brasil', 'Alemanha', 'França', 'Argentina', 'Espanha', 'Inglaterra', 'Portugal', 'Bélgica', 
+                      'Uruguai', 'Colômbia', 'Polônia', 'Peru', 'Croácia', 'Suíça', 'México', 'Rússia', 'Islândia',
+                      'Suécia', 'Irã', 'Dinamarca', 'Sérvia', 'Coreia do Sul', 'Austrália', 'Costa Rica', 'Japão',
+                      'Egito', 'Arábia Saudita', 'Marrocos', 'Nigéria', 'Panamá', 'Tunísia', 'Senegal', 'Oitavas',
                       'Quartas', 'Semi', 'Final', 'Campeão', 'Eliminado'];
 
 var vis = d3.select("#chart").append("svg:svg")
