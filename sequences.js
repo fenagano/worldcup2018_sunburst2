@@ -53,8 +53,12 @@ var colors = {
 // Total size of all segments; we set this later, after loading the data.
 var totalSize = 0; 
 
-var order_vector = ['Brasil', 'Alemanha', 'Espanha', 'França', 'Inglaterra', 'Portugal', 'Bélgica', 'Argentina', 'Uruguai', 'Colômbia', 'Croácia', 'Polônia', 'Dinamarca', 'Suíça', 'México', 'Suécia', 'Irã', 'Rússia', 'Peru', 'Islândia', 'Costa Rica', 'Coreia do Sul', 'Sérvia', 'Japão', 'Senegal', 'Panamá', 'Marrocos', 'Nigéria', 'Austrália', 'Egito', 'Tunísia', 'Arábia Saudita', 'Oitavas', 'Quartas', 'Semi', 'Final', 'Campeão', 'Eliminado'
-];
+var order_vector = ['Brasil', 'Alemanha', 'Espanha', 'França', 'Inglaterra', 'Portugal', 
+                    'Bélgica', 'Argentina', 'Uruguai', 'Colômbia', 'Croácia', 'Polônia', 
+                    'Dinamarca', 'Suíça', 'México', 'Suécia', 'Irã', 'Rússia', 'Peru', 'Islândia', 
+                    'Costa Rica', 'Coreia do Sul', 'Sérvia', 'Japão', 'Senegal', 'Panamá', 'Marrocos', 
+                    'Nigéria', 'Austrália', 'Egito', 'Tunísia', 'Arábia Saudita', 'Oitavas', 'Quartas', 
+                    'Semi', 'Final', 'Campeão', 'Eliminado'];
 
 
 
