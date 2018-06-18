@@ -54,10 +54,10 @@ var colors = {
 var totalSize = 0; 
 
 
-var order_vector = ['Brasil', 'Alemanha', 'Espanha', 'França', 'Inglaterra', 'Portugal', 'Bélgica', 'Argentina', 
-                    'Uruguai', 'Colômbia', 'Croácia', 'Polônia', 'Dinamarca', 'Suíça', 'México', 'Suécia', 
-                    'Irã', 'Rússia', 'Peru', 'Islândia', 'Costa Rica', 'Coreia do Sul', 'Sérvia', 'Japão', 
-                    'Senegal', 'Panamá', 'Marrocos', 'Nigéria', 'Austrália', 'Egito', 'Tunísia', 'Arábia Saudita', 
+var order_vector = [ 'Brasil', 'Espanha', 'França', 'Inglaterra', 'Alemanha', 'Portugal', 'Bélgica', 'Argentina', 
+                    'Colômbia', 'Uruguai', 'México', 'Croácia', 'Polônia', 'Suíça', 'Dinamarca', 'Suécia', 
+                    'Rússia', 'Irã', 'Peru', 'Sérvia', 'Coreia do Sul', 'Japão', 'Islândia', 'Austrália', 
+                    'Senegal', 'Costa Rica', 'Panamá', 'Tunísia', 'Egito', 'Marrocos', 'Nigéria', 'Arábia Saudita', 
                     'Oitavas', 'Quartas', 'Semi', 'Final', 'Campeão', 'Eliminado'
 ];
 
